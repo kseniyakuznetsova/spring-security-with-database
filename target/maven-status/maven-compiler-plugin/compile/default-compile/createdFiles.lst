@@ -1,0 +1,6 @@
+com\kuznetsova\web\controller\LoginController.class
+com\kuznetsova\web\model\User.class
+com\kuznetsova\web\repository\UserRepository.class
+com\kuznetsova\web\service\UserService.class
+com\kuznetsova\web\service\UserServiceImpl.class
+com\kuznetsova\web\service\UserDetailsServiceImpl.class
